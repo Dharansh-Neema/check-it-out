@@ -3,7 +3,7 @@
 		<img src="https://cdn.rawgit.com/jwu910/check-it-out/7adf00b2/assets/logo-type.svg" alt="Check It Out Logo" width="500" />
 	</a>
 </p>
-
+Small changes trying to learn git , discard it
 <p align="center">
 	<a href="http://commitizen.github.io/cz-cli/">
 		<img alt="commitizen friendly badge" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg">
